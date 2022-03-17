@@ -1,5 +1,5 @@
 description: "File a cog update. Not really for regular users, so ignore this."
-labels: ["cog updates"]
+labels: ["cog-updates"]
 name: "Cog Updates!"
 assignees: JeffJrShim
 body:
